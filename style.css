@@ -1,0 +1,11 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#web2d {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
